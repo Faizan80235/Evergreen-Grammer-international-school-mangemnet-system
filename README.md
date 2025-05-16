@@ -1,6 +1,62 @@
-# School-Website
-Web application created with ReactJS
+🌲 Evergreen School Management System
+Welcome to the Evergreen School Management System — a complete, powerful, and easy-to-use web application built using React. This system is specially designed to help schools manage all their important tasks in one place. From fee collection to staff applications, it's all handled digitally through a beautiful dashboard.
 
-A front-end school website with home, about, facility, programs, contact and admission pages. "react-router-dom" was used for navigation through the pages. I also created a lot of reusable components since React JS is component-based. I also made use of react hooks like the useState hook, the useEffect hook, useForm hook, the useParams hook and the useLoaderData hook. The contact form also includes validation to ensure data accuracy
+🚀 Key Features
+🖥️ Interactive Dashboard
+Clean and modern design using Bootstrap and Font Awesome.
 
-<img width="944" alt="school-web" src="https://github.com/Oludefiyinfoluwa06/School-Website/assets/120565527/1c3df68c-8b3e-4af3-ba79-849b7351a1d5">
+Easy navigation for admins, teachers, and students.
+
+All major updates and data at a glance.
+
+📊 Charts and Analytics
+Integrated with Chart.js to show beautiful, interactive charts.
+
+Visualize student fees, teacher applications, and system stats clearly.
+
+🧾 Fee Management
+Auto-generated fee invoices for both students and teachers.
+
+Admin can view, edit, or delete fee data.
+
+Keeps records well-organized and easy to access.
+
+👨‍🏫 Application Forms
+Teachers and students can fill out applications easily.
+
+All submitted forms go straight into the admin dashboard.
+
+🔌 API Integration
+Uses Axios to communicate with the backend.
+
+Real-time data updates without refreshing the page.
+
+🛠️ Tech Stack
+Frontend: React.js
+
+UI Components: Bootstrap 5
+
+Icons: Font Awesome
+
+Charts: Chart.js
+
+HTTP Requests: Axios
+
+🎯 Why I Built This
+The goal of this project was to simplify and digitalize school administration. No more paperwork. With Evergreen, everything from managing fees to reviewing teacher forms is done online — fast, secure, and reliable.
+
+📸 Sneak Peek
+Add screenshots of your dashboard and main features here if possible.
+
+📚 How to Use
+Clone the repository
+
+Install dependencies with npm install
+
+Start the server using npm start
+
+Open the app in your browser at http://localhost:3000
+
+🙏 Final Note
+This system is still in development and open to improvements. Feedback is always welcome. I built this to learn, grow, and help make school systems better.
+
